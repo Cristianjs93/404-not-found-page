@@ -1,6 +1,6 @@
 # Make It Real - 404 Not Found Page
 
-<img src="./design/desktop-preview.jpg" width="700">
+![Alt text](image-1.png)
 
 ## Reto
 
